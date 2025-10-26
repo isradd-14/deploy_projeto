@@ -25,7 +25,7 @@ permite:
 ## 🚀 Principais Funcionalidades
 
 -   **Dashboard Interativo (Streamlit)**\
-    Interface moderna com métricas, gráficos e tabelas dinâmicas.
+    Interface moderna com métricas e tabelas dinâmicas.
 
 -   **Classificação de Risco**\
     Cada produto é classificado em níveis de suspeita:
@@ -58,8 +58,10 @@ permite:
 ## 🧩 Estrutura do Projeto
 
     📂 projeto-hp-challenge-2025
-    ├── main.py                  # Página inicial com a descrição e identidade visual
+    ├── Pagina_Inicial.py        # Página inicial com a descrição e identidade visual
     ├── mercado_livre.py         # Dashboard principal de análise dos produtos
+    ├── Plus_Amazon.py           # Dashboard secundário, o nosso foco foi o Meli, mas também fizemos a Amazon como um plus
+    ├── Próximos_Passos.py       # Aba contendo os nossos próximos passos
     ├── dataset_meli.csv         # Base de dados analisada (entrada principal)
     ├── hp_logo3.svg             # Logotipo da HP exibido na interface
     ├── requirements.txt         # Dependências do projeto
@@ -103,17 +105,7 @@ venv\Scripts\activate    # (Windows)
 
 ### 3️⃣ Instalar as dependências
 
-Crie um arquivo `requirements.txt` (exemplo abaixo) e instale:
-
-``` txt
-streamlit
-pandas
-numpy
-plotly
-```
-
-Depois:
-
+Instale utilizando
 ``` bash
 pip install -r requirements.txt
 ```
