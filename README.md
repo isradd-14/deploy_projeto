@@ -115,33 +115,8 @@ pip install -r requirements.txt
 **Página inicial (apresentação):**
 
 ``` bash
-streamlit run main.py
+streamlit run Pagina_Inicial.py
 ```
-
-**Painel de classificação e análise:**
-
-``` bash
-streamlit run mercado_livre.py
-```
-
-------------------------------------------------------------------------
-
-## 📊 Estrutura da Base de Dados (`dataset_meli.csv`)
-
-  Coluna              Descrição
-  ------------------- -------------------------------------
-  `title`             Nome do produto
-  `condition`         Estado (Novo, Recondicionado etc.)
-  `price`             Preço do produto
-  `suggested_price`   Preço médio/sugerido de mercado
-  `score_suspeita`    Score de suspeita de falsificação
-  `sold`              Quantidade de itens vendidos
-  `review_rating`     Avaliação média do produto
-  `seller_name`       Nome do vendedor
-  `url`               Link para o anúncio
-  `classificacao`     Classificação final do produto
-  `motivos`           Fatores que levaram à classificação
-  `created_at`        Data de registro do anúncio
 
 ------------------------------------------------------------------------
 
