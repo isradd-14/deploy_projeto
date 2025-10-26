@@ -151,12 +151,14 @@ streamlit run Pagina_Inicial.py
 
 **validAI** -- Grupo participante do **Challenge FIAP - HP 2025**
 
-  Nome               Função
+  Nome               
   ------------------ --------------------------------------------
-  Israel Dalcin      Machine Learning Engineer / Data Scientist
-  \[Integrante 2\]   Data Analyst
-  \[Integrante 3\]   Full Stack Developer
-  \[Integrante 4\]   Product Owner
+* Danilo Ramalho Silva | RM: 555183
+* Israel Dalcin Alves Diniz | RM: 554668
+* João Vitor Pires da Silva | RM: 556213
+* Matheus Hungaro | RM: 555677
+* Pablo Menezes Barreto | RM: 556389
+* Tiago Toshio Kumagai Gibo | 556984
 
 ------------------------------------------------------------------------
 
