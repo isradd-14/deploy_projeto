@@ -2,8 +2,6 @@
 
 ### Classificação Inteligente de Produtos Piratas em Marketplaces
 
-![HP Logo](hp_logo3.svg)
-
 ------------------------------------------------------------------------
 
 ## 📘 Descrição do Projeto
